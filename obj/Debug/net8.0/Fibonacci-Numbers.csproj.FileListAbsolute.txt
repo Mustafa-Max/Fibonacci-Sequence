@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\bin\Debug\net8.0\Fibonacci-Numbers.exe
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\bin\Debug\net8.0\Fibonacci-Numbers.deps.json
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\bin\Debug\net8.0\Fibonacci-Numbers.runtimeconfig.json
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\bin\Debug\net8.0\Fibonacci-Numbers.dll
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\bin\Debug\net8.0\Fibonacci-Numbers.pdb
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\Fibonacci-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\Fibonacci-Numbers.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\Fibonacci-Numbers.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\Fibonacci-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\Fibonacci-Numbers.dll
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\refint\Fibonacci-Numbers.dll
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\Fibonacci-Numbers.pdb
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\Fibonacci-Numbers.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Desktop\Learning Station\C#\Fibonacci-Numbers\obj\Debug\net8.0\ref\Fibonacci-Numbers.dll
